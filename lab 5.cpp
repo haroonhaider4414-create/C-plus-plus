@@ -109,20 +109,8 @@ int main(){
 				cout<<"Exiting program."<<endl;
 				break;
 			default:
-			cout<<"Invalid input. Select between 1-7. "<<endl;	
-			 
-				
-				
-				
-				
-				
-				}
-				
-		
-	
+			cout<<"Invalid input. Select between 1-7. "<<endl;}
 	}while(choice !=7);
-	return 0;
-	
-	
-}
+	return 0;}
+
 
